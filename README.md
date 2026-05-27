@@ -8,6 +8,8 @@ Rockets, satellites, and their debris operating in deep-space scenarios often ex
 
 # Envs. for Project
 Python 3.13.15
+
 torch 1.12.1+cu116
+
 Requirements: requirements.txt
 
